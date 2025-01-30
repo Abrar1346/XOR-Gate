@@ -5,8 +5,6 @@ This project focuses on the design and implementation of an XOR gate using MOSFE
 
 ## Author
 **Abrar Tamjid**  
-Student ID: 400452170  
-Course: ELECENG 2EI4  
 
 ## Circuit Design
 The XOR gate circuit is implemented using MOSFETs based on the **MC14007** chip. The design requires **12 MOSFETs** (6 NMOS and 6 PMOS), utilizing the following approach:
