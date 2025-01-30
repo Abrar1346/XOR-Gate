@@ -24,8 +24,8 @@ Two tests were conducted to evaluate the performance of the XOR gate:
 - **Test 1**: VL = -176 mV, VH = 4.21 V
 - **Test 2**: VL = -151 mV, VH = 4.33 V
 
-![Static Test 1](images/static_test_1.png)  
-![Static Test 2](images/static_test_2.png)  
+![Static Test 1](Images/TEST1.png)  
+![Static Test 2](Images/TEST2.png)  
 
 These results confirm that the circuit functions as expected, with slight variations in voltage levels that align with XOR gate logic.
 
