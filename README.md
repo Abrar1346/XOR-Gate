@@ -1,4 +1,4 @@
-# XOR Gate Project
+# MOSFET XOR Gate Project
 
 ## Project Overview
 This project focuses on the design and implementation of an XOR gate using MOSFETs. The objective is to analyze the circuit's behavior, determine ideal sizing for the MOSFETs, and evaluate performance through static testing.
