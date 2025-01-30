@@ -29,10 +29,7 @@ Two tests were conducted to evaluate the performance of the XOR gate:
 
 These results confirm that the circuit functions as expected, with slight variations in voltage levels that align with XOR gate logic.
 
-## Files Included
-- **Circuit Schematic**: Illustrates the XOR gate implementation.
-- **Physical Circuit**: A visual representation of the built circuit.
-- **Testing Results**: Data collected from static testing.
+
 
 ## Notes
 - The use of MC14007 chips provides a practical implementation but may introduce minor inaccuracies due to impedance variations.
