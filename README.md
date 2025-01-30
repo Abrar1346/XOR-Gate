@@ -13,7 +13,7 @@ The XOR gate circuit is implemented using MOSFETs based on the **MC14007** chip.
 - **AND Operation**: Implemented using 2 sets of NMOS and PMOS transistors.
 - **OR Operation**: Achieved using an additional PMOS and NMOS pair.
 
-![Circuit Schematic](Images/XOR Schematic.png)
+![Circuit Schematic](Images/XOR_Schematic.png)
 
 ### Ideal Sizing
 The ideal MOSFET sizing for the XOR circuit follows a **1:1 topology**, which ensures proper function while minimizing complexity. However, the high internal impedance of the MOSFETs in the **MC14007** chips may lead to suboptimal performance.
